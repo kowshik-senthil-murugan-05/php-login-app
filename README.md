@@ -37,3 +37,9 @@ Database queries:
 
 4. Fetch user:
     select * from users where username="abc";
+
+Registration Form:
+<img width="1366" height="698" alt="Screenshot 2026-05-09 153106" src="https://github.com/user-attachments/assets/a65d70fe-1711-4598-8b68-53349cd5ec71" />
+
+Login Form:
+<img width="1366" height="698" alt="Screenshot 2026-05-09 153131" src="https://github.com/user-attachments/assets/f414f4b3-5f66-4950-a4f8-7b0cf511e8e1" />
